@@ -649,5 +649,4 @@ public class Main extends Application implements Zujian {
     public static void main(String[] args) {
         launch(args);
     }
-
 }
